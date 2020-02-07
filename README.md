@@ -46,7 +46,7 @@ Awesome software I used.
 * [KeyManager](https://keymanager.org)
 * [Mellow](https://github.com/mellow-io/mellow)
 * [Speedtest](https://www.speedtest.net)
-* [Blackmagic Disk Speed Test](https://www.blackmagicdesign.com/media/release/20190808-04)(https://www.blackmagicdesign.com/media/release/20190808-04)
+* [Blackmagic Disk Speed Test](https://www.blackmagicdesign.com/media/release/20190808-04)
 * [QQ](https://im.qq.com)
 * [微信](https://www.wechat.com)
 * [阿里旺旺](https://wangwang.taobao.com)
