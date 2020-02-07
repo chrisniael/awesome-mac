@@ -56,6 +56,7 @@ Awesome software I used.
 * [Pages](https://www.apple.com/pages/)
 * [bash](https://www.gnu.org/software/bash/)
 * [bash-completion](https://github.com/scop/bash-completion)
+* [bat](https://github.com/sharkdp/bat)
 * [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
 * [cmake](https://www.cmake.org/)
 * [colordiff](https://www.colordiff.org/)
