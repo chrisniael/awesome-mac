@@ -58,7 +58,6 @@ Awesome software I used.
 * [OBS](https://obsproject.com)
 * [JD-GUI](http://java-decompiler.github.io)
 * [Unite](https://www.bzgapps.com/unite)
-* [迅雷](https://mac.xunlei.com)
 * [Proxyman](https://proxyman.io)
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 * [ClashX](https://github.com/yichengchen/clashX)
