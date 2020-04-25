@@ -62,3 +62,5 @@ Awesome software I used.
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 * [ClashX](https://github.com/yichengchen/clashX)
 * [Telegram](https://telegram.org)
+* [mpv](https://mpv.io)
+* [VLC](https://www.videolan.org/vlc)
